@@ -21,6 +21,8 @@ public class ej9 {
             contador ++; // contador = contador + 1
         } while (num1>=num2);
         System.out.println("El residuo es " + num1 + " y el cociente es " + contador);
+        System.out.println("");
+        
     }
 
 }
