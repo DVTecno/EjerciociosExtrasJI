@@ -22,7 +22,8 @@ public class ej2 {
         C = A;
         A = D;
         D = aux;
-        System.out.println("Valor de A:" + A + ", B:" + B + ", C:" + C + ", D:" + D);
+        System.out.println("Valor de A:" + A + ", B:" + B + ", C:" + C + ", D:"+ D);
+        System.out.println("");
 
     }
 
